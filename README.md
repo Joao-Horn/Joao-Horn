@@ -27,10 +27,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Horn)](https://github.com/anuraghazra/github-readme-stats)
 ##
 <div style="display: inline_block"><br>
+    <img align="center" alt="Joao-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
+  <img align="center" alt="Joao-Pythom" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Joao-pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
   <img align="center" alt="Joao-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
-  <img align="center" alt="Joao-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
-  <img align="center" alt="Joao-Pythom" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+
    <img align="right" alt="Rafa-pic" height="210" width="250" style="border-radius:50px;" src="https://scontent.fbfh3-3.fna.fbcdn.net/v/t39.30808-6/277774000_5028207377261287_6242629700557252422_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=DB7Ep6OzJwkAX_p-LsY&_nc_ht=scontent.fbfh3-3.fna&oh=00_AfB7Qi29YYyXB_Z2zp8QRTVkClUFjtoqhqVm38le6k-p7w&oe=6430FD41">
   
 
