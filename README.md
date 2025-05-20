@@ -3,10 +3,8 @@
 
 
 
-- 🔭 I’m currently working as a data science
 - 🌱 I’m currently learning science economics
 - 📫 How to reach me: joaovictorhorngomes@gmail.com
-- 😄 Pronouns: He/him
 - 🌍 I'm from Brazil
 - 🧠 I study at PUCPR
 
